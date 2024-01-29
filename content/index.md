@@ -1,8 +1,7 @@
 ---
-title: index
+title: 일치와 불일치
 draft: false
-tags:
-  - 
+tags: 
 date modified: 2024-01-29 01:36
 ---
 # 현상학
